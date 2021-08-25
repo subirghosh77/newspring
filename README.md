@@ -1,4 +1,4 @@
-# NewSpring <img src="https://img.shields.io/badge/project-completed-brightgreen"> <img src="https://github.com/subirghosh77/newspring/blob/3bc5082c7894e93f445fa7f10dee322e4af6a4c7/dailynews/web/images/logo.svg" align="right" width="20%" height="20%">
+# NewSpring <img src="https://img.shields.io/badge/project-completed-brightgreen"> <img src="https://github.com/subirghosh77/newspring/blob/243f36b36fa33026caadacb8684e433b5b76db20/newspring/web/images/logo.svg" align="right" width="20%" height="20%">
 
 
 <img src="https://img.shields.io/badge/Spring-v4.0.1-brightgreen"> <img src="https://img.shields.io/badge/Spring-MVC-brightgreen"> <img src="https://img.shields.io/badge/Java-v1.8-brightgreen"> <img src="https://img.shields.io/badge/MySQL-v5.7.26-brightgreen"> <img src="https://img.shields.io/badge/HTML-v5-brightgreen"> <img src="https://img.shields.io/badge/CSS-brightgreen"> <img src="https://img.shields.io/badge/JavaScript-brightgreen"> <img src="https://img.shields.io/badge/Jquery-v1.12.4-brightgreen"> <img src="https://img.shields.io/badge/Ajax-brightgreen"> <img src="https://img.shields.io/badge/Apache Tomcat-v8.0.32-brightgreen"> <img src="https://img.shields.io/badge/NetBeans-brightgreen">
@@ -190,7 +190,7 @@ return null;
 
 __`6. Detabase Schema`__
 
-<img src="https://github.com/subirghosh77/newspring/blob/3bc5082c7894e93f445fa7f10dee322e4af6a4c7/dailynews/web/images/ss/daigram.png" alt="ERR diagram" title="ERR Diagram" width="100%" height="100%">
+<img src="https://github.com/subirghosh77/newspring/blob/243f36b36fa33026caadacb8684e433b5b76db20/newspring/web/images/ss/daigram.png" alt="ERR diagram" title="ERR Diagram" width="100%" height="100%">
 
 Features
 --------
