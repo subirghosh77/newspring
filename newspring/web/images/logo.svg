@@ -1,0 +1,41 @@
+
+<svg version="1.1" id="svg-editor-canvas" x="0px" y="0px" class="canvas" width="190" height="70" xmlns="http://www.w3.org/2000/svg">
+	<g id="svg-engine" transform="scale(0.413)">
+		<g class="ng-scope"> 	
+			<g type="container-shape" class="logo-item ng-scope" id="shape-3" transform="translate(94.53332519 0) scale(0.35833333333333334 0.35824422234737496) rotate(32 60 59.99166870117)">
+				<g type="shape" class="svg-item ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty">
+					<linearGradient id="SVGID_3_0" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(90)" class="ng-scope">
+					<stop offset="0%" stop-color="#1ad81c" stop-opacity="1"/><stop offset="100%" stop-color="#1c659a" stop-opacity="1"/>
+					</linearGradient>
+					<circle cx="60" cy="60.001" r="59.984" id="PATH_3_0" fill="url(#SVGID_3_0)" class="ng-scope"/>
+				</g>
+			</g>
+		</g>
+		<g class="ng-scope"> 	
+			<g type="container-logo" class="logo-item ng-scope" id="shape-0" transform="translate(0 4.88333129883006) scale(2.2566550757139403 2.256655075713993) rotate(0 43.925003051758 35.383331298828)">
+				<g type="logo" class="svg-item ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty">
+					<linearGradient id="SVGID_0_0" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(90)" class="ng-scope">
+						<stop offset="0%" stop-color="#0094ff" stop-opacity="1"/>
+						<stop offset="100%" stop-color="#7a22af" stop-opacity="1"/>
+					</linearGradient>
+					<path d="M87.831 20.113c-.488-.673-4.019 2.246-13.489 20.707C66.195 56.704 60.49 70.762 51.62 70.762c-8.218 0-13.592-12.158-20.952-26.521-.586-1.129-1.172-2.269-1.78-3.42-7.958-15.123-14.775-6.111-15.351-5.318 7.726-15.574 13.689-16.221 16.328-16.221 2.627 0 7.577-.249 13.581 13.506 5.71 13.092 8.174 12.658 8.174 12.658s2.454.434 8.175-12.658c6.004-13.756 15.979-21.608 28.036-12.675z" id="PATH_0_0" fill="url(#SVGID_0_0)" class="ng-scope"/>
+					<linearGradient id="SVGID_0_1" x1="0%" y1="0%" x2="100%" y2="0%" gradientTransform="rotate(90)" class="ng-scope">
+						<stop offset="0%" stop-color="#434343" stop-opacity="1"/>
+						<stop offset="100%" stop-color="#3e1bdb" stop-opacity="1"/>
+					</linearGradient>
+					<path d="M30.668 44.24L17.739 65.768a.084.084 0 01-.022.055l-.423.695c-.011.032-.033.054-.054.086a9.387 9.387 0 01-7.295 4.147c-.173.011-.348.011-.521.011a9.436 9.436 0 01-8.468-5.287A9.451 9.451 0 010 61.328c0-1.281.25-2.508.716-3.615l1.227-2.128 11.562-20.029c.011-.022.021-.032.032-.054.576-.793 7.393-9.805 15.351 5.318.608 1.152 1.194 2.291 1.78 3.42z" id="PATH_0_1" fill="url(#SVGID_0_1)" class="ng-scope"/>
+				</g>
+			</g>
+		</g>
+		<g class="ng-scope"> 
+			<g symetrie="1" class="contenteditable logo-item ng-pristine ng-untouched ng-valid ng-scope ng-not-empty" id="shape-1" transform="translate(185.1166839599598 104.09167480469) scale(1 1)">
+					<text class="real-text ng-binding ng-scope" id="text-1" dominant-baseline="auto" alignment-baseline="auto" font-family="Fontastique" font-size="62px" font-style="oblique" font-weight="bold" fill="#0094FF" dx="0 0 0 0 0 0 0 0 0 0 0 0">Newspring</text>
+               </g>
+		</g>
+		<g class="ng-scope"> 	
+			<g symetrie="1" class="contenteditable logo-item ng-pristine ng-untouched ng-valid ng-scope ng-not-empty" id="shape-2" transform="translate(185.1166839599598 144.81666460373628) scale(0.67316207334603 0.67316207334603)">
+				<text class="real-text ng-binding ng-scope" id="text-2" dominant-baseline="auto" alignment-baseline="auto" font-family="cursive" font-weight=" bolder" font-size="27px" fill="#7a22af" dx="-5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6">All News in One Place</text>
+               </g>
+		</g>
+	</g>    
+</svg>	

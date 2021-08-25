@@ -1,0 +1,110 @@
+@font-face {
+	font-family: 'FontAwesome';
+	src: url('../fonts/fontawesome-webfont3e6e.eot?v=4.7.0');
+	src: url('../fonts/fontawesome-webfontd41d.eot?#iefix&v=4.7.0') format('embedded-opentype'),
+		url('../fonts/fontawesome-webfont3e6e.html?v=4.7.0') format('html'),
+		url('../fonts/fontawesome-webfont3e6e.woff?v=4.7.0') format('woff'),
+		url('../fonts/fontawesome-webfont3e6e.ttf?v=4.7.0') format('truetype'),
+		url('../fonts/fontawesome-webfont3e6e.svg?v=4.7.0#fontawesomeregular')
+		format('svg');
+	font-weight: normal;
+	font-style: normal
+}
+@font-face {
+    font-family: "Font Awesome 5 Free";
+    font-display: auto;
+    src: url(../fonts/webfonts/fa-regular-400.eot);
+    src: url(../fonts/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), 
+        url(../fonts/webfonts/fa-regular-400.woff2) format("woff2"), 
+        url(../fonts/webfonts/fa-regular-400.woff) format("woff"), 
+        url(../fonts/webfonts/fa-regular-400.ttf) format("truetype"), 
+        url(../fonts/webfonts/fa-regular-400.svg#fontawesome) format("svg");
+    font-style: normal;
+    font-weight: 400
+}
+.far {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 400;
+}
+.far{
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1
+}
+.fa {
+	display: inline-block;
+	font: normal normal normal 14px/1 FontAwesome;
+	font-size: inherit;
+	text-rendering: auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale
+}
+.fa-star-o:before {
+	/* use */
+	content: "\f006"
+}
+.fa-newspaper-o:before {
+	/* use */
+	content: "\f1ea"
+}
+.fa-user-circle-o:before {
+	/* use */
+	content: "\f2be"
+}
+.fa-search:before {
+/* 	use */
+	content: "\f002"
+}
+.fa-eye:before {
+	/* 	use */
+	content: "\f06e"
+}
+.fa-eye-slash:before {
+	/* 	use */
+	content: "\f070"
+}
+.fa-user-circle-o:before {
+	/* use */
+	content: "\f2be"
+}
+.fa-globe:before {
+/* 	use */
+	content: "\f0ac"
+}
+.fa-line-chart:before {
+/* 	use */
+	content: "\f201"
+}
+.fa-angle-double-up:before {
+	content: "\f102"
+}
+.fa-twitter-square:before {
+/* 	use */
+	content: "\f081"
+}
+.fa-twitter:before {
+	content: "\f099"
+}
+.fa-facebook-square:before {
+/* 	use */
+	content: "\f082"
+}
+.fa-facebook-f:before, .fa-facebook:before {
+	content: "\f09a"
+}
+.fa-refresh:before {
+	content: "\f021"
+}
+.fa-linkedin:before {
+	content: "\f0e1"
+}
+.fa-facebook-official:before {
+	content: "\f230"
+}
+.fa-comment-alt:before {
+    content: "\f27a"
+}

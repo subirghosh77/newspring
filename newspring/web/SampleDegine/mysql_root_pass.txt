@@ -1,0 +1,7 @@
+D@ilyN3ws
+
+Dailynews 
+	user -> 123456
+	root ->D@ilyN3ws
+
+port-3306

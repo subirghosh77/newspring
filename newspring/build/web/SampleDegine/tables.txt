@@ -1,0 +1,28 @@
+channels->table name
+id(int)(autoincrement)
+name(varchar)
+baseurl(varchar)
+xml(varchar)
+logopath(varchar)
+delf(int)
+
+fav->table name
+id(int)(autoincrement)
+delf(int)
+userid(int)
+newsid(int)
+
+news->table name
+newsid(int)(autoincrement)
+delf(int)
+title(varchar)
+link(varchar)
+description(varchar)
+pubdate(varchar)
+guid(varchar)
+
+user->table name
+userid
+email(varchar)
+password(varchar)
+conpassword (varchar)

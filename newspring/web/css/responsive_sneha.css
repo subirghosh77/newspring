@@ -1,0 +1,133 @@
+@charset "utf-8";
+
+/* Layout: Large Devices. */
+@media only screen and (min-width: 1600px) {
+
+}
+/* Layout: Large Devices. */
+@media only screen and (min-width: 1440px) {
+
+}
+
+/* Layout: Large Devices. */
+@media only screen and (max-width: 1440px) {
+
+}
+
+/* Layout: Large Devices. */
+@media only screen and (max-width: 1300px) {
+
+}
+
+/* Tablet Layout: 991px. */
+@media only screen and (min-width: 990px) and (max-width: 1199px) {
+
+}
+/* Tablet Layout: 1199px. */ 
+/* @media only screen and (max-width: 1199px) { */
+
+/* } */
+
+/* Medium Layout: 991px. */
+@media only screen and (max-width: 991px) {
+    .conimage_div {
+        width: 70%;
+
+    }
+    .headline{
+        font-size:28px;
+    }
+    .contentdiv{
+        font-size: 17px !important;
+        font-height: 36px;
+    }
+    .source_line{
+        font-size:13px;
+    }
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .conimage_div {
+        width: 70%;
+    }
+    .headline{
+        font-size:28px;
+    }
+    .contentdiv{
+        font-size: 17px !important;
+        font-height: 36px;
+    }
+    .source_line{
+        font-size:13px;
+    }
+}
+
+/* Mobile Layout: 767px. */
+@media only screen and (max-width: 767px) {
+    .conimage_div {
+        width: 70%;
+    }
+    .source_div {
+        margin: auto;
+        top: 20px;
+        position: relative;
+        display: grid;
+        width: fit-content;
+    }
+    .headline{
+        font-size:28px;
+    }
+    .contentdiv{
+        font-size: 17px !important;
+        line-height: 36px;
+    }
+    .source_line{
+        font-size:13px;
+    }
+}
+
+/* Small Device : 590px. */
+@media only screen and (max-width: 540px){
+    .conimage_div {
+        width: 80%;
+    }
+    .source_div{
+        margin: auto;
+        top: 20px;
+        position: relative;
+        font-size:11px;
+    }
+    .headline{
+        font-size:24px;
+    }
+    .contentdiv{
+        font-size: 16px !important;
+        line-height: 30px;
+    }
+    .source_line{
+        font-size:12px;
+    }
+}
+
+/* Extra Small Device : 320px. */
+@media only screen and (min-width:250px) and (max-width: 320px){
+    .conimage_div {
+        width: 80%;
+    }
+    .headline{
+        font-size:24px;
+    }
+    .contentdiv{
+        font-size: 15px !important;
+        line-height: 23px;
+    }
+    .source_line{
+        font-size:11px;
+    }
+    .source_div{
+        font-size:10px;
+        display:grid;
+    }
+}
+

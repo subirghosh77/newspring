@@ -1,0 +1,45 @@
+https://www.news18.com/rss/politics.xml
+https://www.news18.com/rss/books.xml
+https://www.news18.com/rss/india.xml
+https://www.news18.com/rss/movies.xml
+
+https://www.espncricinfo.com/rss/content/story/feeds/0.xml -cricket
+https://www.espncricinfo.com/rss/content/story/feeds/6.xml - india
+
+Title	          	 		RSS Path
+Nation			https://zeenews.india.com/rss/india-national-news.xml
+World			https://zeenews.india.com/rss/world-news.xml
+States			https://zeenews.india.com/rss/india-news.xml
+Asia			https://zeenews.india.com/rss/asia-news.xml
+Business		https://zeenews.india.com/rss/business.xml
+Sports			https://zeenews.india.com/rss/sports-news.xml
+Science & Environment	https://zeenews.india.com/rss/science-environment-news.xml
+Entertainment		https://zeenews.india.com/rss/entertainment-news.xml
+Health			https://zeenews.india.com/rss/health-news.xml
+Blogs			https://zeenews.india.com/rss/blog-news.xml
+Technology		https://zeenews.india.com/rss/technology-news.xml
+
+https://economictimes.indiatimes.com/prime/technology-and-startups/rssfeeds/63319172.cms
+https://economictimes.indiatimes.com/news/science/rssfeeds/39872847.cms
+
+new 9/12
+
+https://economictimes.indiatimes.com/small-biz/security-tech/rssfeeds/47280820.cms
+https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml
+https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml
+https://www.indiatvnews.com/rssnews/topstory-lifestyle.xml
+https://www.indiatvnews.com/rssnews/topstory-india.xml
+https://www.news18.com/rss/education-career.xml
+https://economictimes.indiatimes.com/prime/environment/rssfeeds/63319186.cms 
+https://www.indiatvnews.com/rssnews/topstory-entertainment.xml
+https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms -india
+https://timesofindia.indiatimes.com/rssfeeds/296589292.cms -world
+https://timesofindia.indiatimes.com/rssfeeds/1898055.cms -business
+https://www.hindustantimes.com/rss/world/rssfeed.xml
+https://www.hindustantimes.com/rss/education/rssfeed.xml
+https://www.hindustantimes.com/rss/analysis/rssfeed.xml
+https://www.hindustantimes.com/rss/lifestyle/rssfeed.xml
+https://www.indiatoday.in/rss/1206514 -nation
+https://www.indiatoday.in/rss/1206550 -sports
+https://www.indiatoday.in/rss/1206513 -economy

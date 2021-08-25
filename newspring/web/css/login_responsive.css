@@ -1,0 +1,101 @@
+@charset "utf-8";
+
+/* Layout: Large Devices. */
+@media only screen and (min-width: 1600px) {
+
+}
+/* Layout: Large Devices. */
+@media only screen and (min-width: 1440px) {
+
+}
+
+/* Layout: Large Devices. */
+@media only screen and (max-width: 1440px) {
+
+}
+
+/* Layout: Large Devices. */
+@media only screen and (max-width: 1300px) {
+
+}
+
+/* Tablet Layout: 991px. */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+}
+/* Tablet Layout: 1199px. */ 
+/* @media only screen and (max-width: 1199px) { */
+
+/* } */
+
+/* Medium Layout: 991px. */
+@media only screen and (max-width: 991px) {
+    .div_login{
+        width:50%;
+    }
+
+    .close_login {
+        top:28px;
+        transform: translate(27%, -50%);
+    }
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .div_login{
+        width:50%;
+    }
+    .close_login {
+        top:28px;
+        transform: translate(27%, -50%);
+    }
+}
+
+/* Mobile Layout: 767px. */
+@media only screen and (max-width: 767px) {
+    .div_login{ 
+        width:80%;
+    }
+    .close_login {
+        top:28px;
+        transform: translate(27%, -50%);
+    }
+}
+
+/* Small Device : 590px. */
+@media only screen and (max-width: 540px){
+    .div_login{
+        width:100%;
+        border-radius:0;
+        height:100%;
+    }
+    .main_div_login{
+        padding-top: 0;
+    }
+    .click_log_in {
+        padding: 0px 21%;
+    }
+    /* 	.container-login-b{ */
+    /* 		position: absolute; */
+    /* 		bottom: 12px; */
+    /* 		right: 0; */
+    /* 		left: 0; */
+    /* 	} */
+}
+
+
+/* Extra Small Device : 320px. */
+@media only screen and (min-width:250px) and (max-width: 320px){
+    .div_login{
+        width:100%;
+        border-radius:0;
+        height:100%;
+    }
+    .main_div_login{
+        padding-top: 0;
+    }
+    .click_log_in {
+        padding: 0px 0px;
+    }
+}
+
