@@ -195,7 +195,7 @@ __`6. Detabase Schema`__
 Features
 --------
 
-Login portal.
+Search by news,Login portal.
 
 Future Work
 -----------
