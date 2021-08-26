@@ -27,16 +27,19 @@ Images
     
 > Index page
 
+<img src="https://github.com/subirghosh77/newspring/blob/952b254c553791b94893f878dd7f3784659d8f76/newspring/web/images/ss/index.png" alt="index page" title="Index Page"> 
 
 > Detailed news page
 
+<img src="https://github.com/subirghosh77/newspring/blob/952b254c553791b94893f878dd7f3784659d8f76/newspring/web/images/ss/detailed-news.png" alt="detailed news" title="Detailed News">
 
 > Available news paper page
 
+<img src="https://github.com/subirghosh77/newspring/blob/952b254c553791b94893f878dd7f3784659d8f76/newspring/web/images/ss/available-news-paper.png" alt="available news paper" title="Available News Paper">
 
 > News paper page 
 
-
+<img src="https://github.com/subirghosh77/newspring/blob/952b254c553791b94893f878dd7f3784659d8f76/newspring/web/images/ss/news-paper.png" alt="news paper" title="News Paper">
 
 > About page
 
