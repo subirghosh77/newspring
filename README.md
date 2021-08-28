@@ -41,11 +41,11 @@ Images
 
 <img src="https://github.com/subirghosh77/newspring/blob/952b254c553791b94893f878dd7f3784659d8f76/newspring/web/images/ss/news-paper.png" alt="news paper" title="News Paper">
 
-> About page
+> About Us page
 
 <img src="https://github.com/subirghosh77/newspring/blob/f38efb6bdbba86732cca59f7822e0e7bf0fcaeac/newspring/web/images/ss/about-page.gif" alt="about paper" title="About Paper">
 
-> Contact page
+> Contact Us page
 
 <img src="https://github.com/subirghosh77/newspring/blob/f38efb6bdbba86732cca59f7822e0e7bf0fcaeac/newspring/web/images/ss/contact-us-page.gif" alt="contact us paper" title="Contact Us Paper">
 
