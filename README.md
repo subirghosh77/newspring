@@ -58,6 +58,8 @@ Code
 
 __`1. HTML Code`__
 
+> By using this __`svg`__ code we show 404 page.
+
 ```html
 <svg width="100%" height="380px" viewBox="0 0 636 324" fill="none">
    <g id="OBJECTS">
@@ -69,6 +71,8 @@ __`1. HTML Code`__
 ````
 
 __`2. Java Script Code`__
+
+> We have dispay the news in froentd by using __`ajax`__ function. 
 
 ```javascript
 function triggerAjaxCall() {
@@ -84,7 +88,7 @@ function triggerAjaxCall() {
       var text = "<div class='main_contener_div'style='height:fit-content;'>";
       $.each(items, function (index, item) {
          if(item.img === "null"){
-            text=text+ "<div class='news_summary_div space_news_summary_div'><div class='news_div'><div class='news_first_part'><span class='decripition-type-div-    mobile'>"+item.channelsDes+"</span>...</div>...</div>...";                
+            text=text+ "<div class='news_summary_div space_news_summary_div'><div class='news_div'><div class='news_first_part'><span class='decripition-type-div-mobile'>"+item.channelsDes+"</span>...</div>...</div>...";                
          }else{
             text=text+ "<div class='news_summary_div space_news_summary_div'><div class='news_div'><div class='news_first_part'><span class='decripition-type-div-mobile'>"+item.channelsDes+"</span>...</div>...</div>...";                
          }
@@ -98,6 +102,8 @@ function triggerAjaxCall() {
 ```
 
 __`3. Spring IOC`__
+
+> By using the code we __`get`__ data from data base.
 
 ```java
 List l=null;
@@ -120,6 +126,8 @@ if(list.size()<=newItemCount + 10){
 ```
 
 __`4. News Updater`__
+
+> Using this code we __`get`__ data from __`RSS`__ feed, and update databse daily.
 
 ```java
 for (int m = 0; m < cNodesLvl1.getLength(); m++) {
@@ -156,7 +164,6 @@ for (int m = 0; m < cNodesLvl1.getLength(); m++) {
 }
 items.add(item);
 ```
-
 
 __`5. Mysql Connection`__
 
