@@ -43,14 +43,15 @@ Images
 
 > About page
 
+<img src="https://github.com/subirghosh77/newspring/blob/f38efb6bdbba86732cca59f7822e0e7bf0fcaeac/newspring/web/images/ss/about-page.gif" alt="about paper" title="About Paper">
 
 > Contact page
 
-
+<img src="https://github.com/subirghosh77/newspring/blob/f38efb6bdbba86732cca59f7822e0e7bf0fcaeac/newspring/web/images/ss/contact-us-page.gif" alt="contact us paper" title="Contact Us Paper">
 
 > 404 page
 
-
+<img src="https://github.com/subirghosh77/newspring/blob/f38efb6bdbba86732cca59f7822e0e7bf0fcaeac/newspring/web/images/ss/404-page.gif" alt="404 paper" title="404 Paper">
 
 Code
 ----
